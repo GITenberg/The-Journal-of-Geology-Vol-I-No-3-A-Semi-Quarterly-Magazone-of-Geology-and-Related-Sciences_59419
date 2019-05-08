@@ -1,0 +1,27 @@
+_repo: The-Journal-of-Geology-Vol-I-No-3-A-Semi-Quarterly-Magazone-of-Geology-and-Related-Sciences_59419
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Chamberlin, T. C.
+    gutenberg_agent_id: '50439'
+    url: http://www.gutenberg.org/2009/agents/50439
+description: ''
+gutenberg_issued: '2019-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Journal of Geology, Vol. I. No. 3
+
+  A Semi-Quarterly Magazone of Geology and Related Sciences'
+url: http://www.gutenberg.org/ebooks/59419
